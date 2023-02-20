@@ -1,6 +1,8 @@
 # Java_TI-84_Calculator
 A semi-functioning TI-84 calculator with some features removed and everything basically simplified. I'm too lazy to spend a month trying to make a Java application calculator program better than any other calculator on earth.  Wrote in my free time. FYI I still hate math. I just did this because I had nothing else to do.
 
+
+
 [**DOWNLOAD JAVA EXECUTABLE (JAR)**](https://github.com/TheGameCenter/Java_TI-84_Calculator/raw/main/bin/Ti-84%20Calculator.jar)
 
 [**Go to main .java file**](https://github.com/TheGameCenter/Java_TI-84_Calculator/blob/main/src/pkg/MainActivity.java)

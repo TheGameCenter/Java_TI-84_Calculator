@@ -6,6 +6,6 @@ A semi-functioning TI-84 calculator with some features removed and everything ba
 [**Go to main .java file**](https://github.com/TheGameCenter/Java_TI-84_Calculator/blob/main/src/pkg/MainActivity.java)
 
 
-[](https://raw.githubusercontent.com/TheGameCenter/Java_TI-84_Calculator/main/bin/screenshot.png)
+![](https://raw.githubusercontent.com/TheGameCenter/Java_TI-84_Calculator/main/bin/screenshot.png)
 
 Requirements: [Java JDK](https://www.oracle.com/java/technologies/downloads/#jdk19-windows)
